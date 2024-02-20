@@ -1,0 +1,1220 @@
+field,year,count
+Natural language processing,1970,1868
+Natural language processing,1971,2012
+Natural language processing,1972,1985
+Natural language processing,1973,2250
+Natural language processing,1974,2109
+Natural language processing,1975,2439
+Natural language processing,1976,2331
+Natural language processing,1977,2532
+Natural language processing,1978,2607
+Natural language processing,1979,2751
+Natural language processing,1980,2830
+Natural language processing,1981,2988
+Natural language processing,1982,3133
+Natural language processing,1983,3456
+Natural language processing,1984,3721
+Natural language processing,1985,3724
+Natural language processing,1986,4091
+Natural language processing,1987,4384
+Natural language processing,1988,4995
+Natural language processing,1989,5113
+Natural language processing,1990,5711
+Natural language processing,1991,6027
+Natural language processing,1992,6284
+Natural language processing,1993,6353
+Natural language processing,1994,7349
+Natural language processing,1995,6954
+Natural language processing,1996,7485
+Natural language processing,1997,8083
+Natural language processing,1998,8794
+Natural language processing,1999,9009
+Natural language processing,2000,11361
+Natural language processing,2001,11494
+Natural language processing,2002,16494
+Natural language processing,2003,15640
+Natural language processing,2004,17633
+Natural language processing,2005,19042
+Natural language processing,2006,21367
+Natural language processing,2007,22615
+Natural language processing,2008,25054
+Natural language processing,2009,27642
+Natural language processing,2010,31058
+Natural language processing,2011,32011
+Natural language processing,2012,33877
+Natural language processing,2013,35120
+Natural language processing,2014,36378
+Natural language processing,2015,49547
+Natural language processing,2016,40088
+Natural language processing,2017,40195
+Natural language processing,2018,46422
+Natural language processing,2019,51960
+Natural language processing,2020,57115
+Natural language processing,2021,56919
+Natural language processing,2022,49944
+Machine learning,1970,4064
+Machine learning,1971,3626
+Machine learning,1972,3887
+Machine learning,1973,4029
+Machine learning,1974,4582
+Machine learning,1975,4856
+Machine learning,1976,5215
+Machine learning,1977,5654
+Machine learning,1978,5630
+Machine learning,1979,5935
+Machine learning,1980,6456
+Machine learning,1981,6656
+Machine learning,1982,6891
+Machine learning,1983,7266
+Machine learning,1984,7803
+Machine learning,1985,8178
+Machine learning,1986,8989
+Machine learning,1987,9628
+Machine learning,1988,10434
+Machine learning,1989,11552
+Machine learning,1990,12695
+Machine learning,1991,13505
+Machine learning,1992,14558
+Machine learning,1993,15597
+Machine learning,1994,16528
+Machine learning,1995,18315
+Machine learning,1996,19691
+Machine learning,1997,20914
+Machine learning,1998,22766
+Machine learning,1999,25197
+Machine learning,2000,30399
+Machine learning,2001,33797
+Machine learning,2002,56801
+Machine learning,2003,52509
+Machine learning,2004,56849
+Machine learning,2005,68002
+Machine learning,2006,79007
+Machine learning,2007,84886
+Machine learning,2008,93152
+Machine learning,2009,103449
+Machine learning,2010,111974
+Machine learning,2011,121085
+Machine learning,2012,127180
+Machine learning,2013,132174
+Machine learning,2014,136883
+Machine learning,2015,139179
+Machine learning,2016,145044
+Machine learning,2017,157657
+Machine learning,2018,186646
+Machine learning,2019,218334
+Machine learning,2020,253851
+Machine learning,2021,291083
+Machine learning,2022,294712
+Psychology,1970,79856
+Psychology,1971,78221
+Psychology,1972,81448
+Psychology,1973,85797
+Psychology,1974,88572
+Psychology,1975,94013
+Psychology,1976,98359
+Psychology,1977,100752
+Psychology,1978,107204
+Psychology,1979,109844
+Psychology,1980,114341
+Psychology,1981,116617
+Psychology,1982,119643
+Psychology,1983,122125
+Psychology,1984,127881
+Psychology,1985,131669
+Psychology,1986,137556
+Psychology,1987,144987
+Psychology,1988,154585
+Psychology,1989,162169
+Psychology,1990,171425
+Psychology,1991,172803
+Psychology,1992,181411
+Psychology,1993,186112
+Psychology,1994,193790
+Psychology,1995,204560
+Psychology,1996,219587
+Psychology,1997,230330
+Psychology,1998,239092
+Psychology,1999,251732
+Psychology,2000,305317
+Psychology,2001,311804
+Psychology,2002,358811
+Psychology,2003,379353
+Psychology,2004,414093
+Psychology,2005,454618
+Psychology,2006,513620
+Psychology,2007,564319
+Psychology,2008,613527
+Psychology,2009,680851
+Psychology,2010,755660
+Psychology,2011,822431
+Psychology,2012,888865
+Psychology,2013,966809
+Psychology,2014,997169
+Psychology,2015,1031611
+Psychology,2016,1058506
+Psychology,2017,1123330
+Psychology,2018,1174440
+Psychology,2019,1223520
+Psychology,2020,1323251
+Psychology,2021,1248979
+Psychology,2022,1141013
+Mathematics,1970,95911
+Mathematics,1971,89780
+Mathematics,1972,96320
+Mathematics,1973,99705
+Mathematics,1974,105229
+Mathematics,1975,110262
+Mathematics,1976,112461
+Mathematics,1977,116692
+Mathematics,1978,119953
+Mathematics,1979,124714
+Mathematics,1980,137387
+Mathematics,1981,135294
+Mathematics,1982,139117
+Mathematics,1983,146706
+Mathematics,1984,153987
+Mathematics,1985,160453
+Mathematics,1986,168408
+Mathematics,1987,177168
+Mathematics,1988,186326
+Mathematics,1989,198021
+Mathematics,1990,216781
+Mathematics,1991,221003
+Mathematics,1992,232942
+Mathematics,1993,242847
+Mathematics,1994,252829
+Mathematics,1995,264003
+Mathematics,1996,282008
+Mathematics,1997,290960
+Mathematics,1998,302653
+Mathematics,1999,320111
+Mathematics,2000,374221
+Mathematics,2001,394275
+Mathematics,2002,542675
+Mathematics,2003,526319
+Mathematics,2004,555309
+Mathematics,2005,618046
+Mathematics,2006,679994
+Mathematics,2007,731678
+Mathematics,2008,782399
+Mathematics,2009,841708
+Mathematics,2010,896720
+Mathematics,2011,968465
+Mathematics,2012,989185
+Mathematics,2013,1035724
+Mathematics,2014,1063152
+Mathematics,2015,1051701
+Mathematics,2016,1053806
+Mathematics,2017,1081660
+Mathematics,2018,1146824
+Mathematics,2019,1190431
+Mathematics,2020,1248675
+Mathematics,2021,1258503
+Mathematics,2022,1173919
+Computer science,1970,253012
+Computer science,1971,245732
+Computer science,1972,258014
+Computer science,1973,265124
+Computer science,1974,273973
+Computer science,1975,288540
+Computer science,1976,295428
+Computer science,1977,307100
+Computer science,1978,319129
+Computer science,1979,336484
+Computer science,1980,361097
+Computer science,1981,368278
+Computer science,1982,381959
+Computer science,1983,397935
+Computer science,1984,405947
+Computer science,1985,423754
+Computer science,1986,450950
+Computer science,1987,469539
+Computer science,1988,493924
+Computer science,1989,538415
+Computer science,1990,582769
+Computer science,1991,600496
+Computer science,1992,632624
+Computer science,1993,664283
+Computer science,1994,711498
+Computer science,1995,752238
+Computer science,1996,811322
+Computer science,1997,861463
+Computer science,1998,904786
+Computer science,1999,978600
+Computer science,2000,1157764
+Computer science,2001,1230931
+Computer science,2002,1612814
+Computer science,2003,1621289
+Computer science,2004,1781470
+Computer science,2005,1923795
+Computer science,2006,2090342
+Computer science,2007,2236185
+Computer science,2008,2393345
+Computer science,2009,2597709
+Computer science,2010,2769090
+Computer science,2011,3023379
+Computer science,2012,3070275
+Computer science,2013,3215185
+Computer science,2014,3340076
+Computer science,2015,3385062
+Computer science,2016,3358395
+Computer science,2017,3180494
+Computer science,2018,3181238
+Computer science,2019,3298299
+Computer science,2020,3591414
+Computer science,2021,3178156
+Computer science,2022,3202135
+Sociology,1970,43998
+Sociology,1971,38139
+Sociology,1972,40579
+Sociology,1973,42485
+Sociology,1974,45193
+Sociology,1975,47705
+Sociology,1976,50228
+Sociology,1977,52665
+Sociology,1978,55434
+Sociology,1979,57204
+Sociology,1980,61691
+Sociology,1981,62020
+Sociology,1982,64339
+Sociology,1983,66183
+Sociology,1984,69824
+Sociology,1985,72129
+Sociology,1986,75808
+Sociology,1987,81278
+Sociology,1988,86127
+Sociology,1989,93328
+Sociology,1990,102013
+Sociology,1991,104864
+Sociology,1992,111516
+Sociology,1993,118133
+Sociology,1994,126475
+Sociology,1995,135241
+Sociology,1996,146243
+Sociology,1997,154812
+Sociology,1998,163074
+Sociology,1999,175001
+Sociology,2000,206816
+Sociology,2001,225912
+Sociology,2002,252276
+Sociology,2003,272112
+Sociology,2004,299076
+Sociology,2005,331980
+Sociology,2006,371454
+Sociology,2007,423548
+Sociology,2008,456017
+Sociology,2009,511351
+Sociology,2010,563298
+Sociology,2011,607800
+Sociology,2012,657574
+Sociology,2013,713778
+Sociology,2014,734742
+Sociology,2015,754181
+Sociology,2016,791605
+Sociology,2017,803705
+Sociology,2018,835752
+Sociology,2019,860301
+Sociology,2020,963466
+Sociology,2021,907840
+Sociology,2022,805560
+Philosophy,1970,27260
+Philosophy,1971,23990
+Philosophy,1972,25607
+Philosophy,1973,26837
+Philosophy,1974,27940
+Philosophy,1975,29123
+Philosophy,1976,30653
+Philosophy,1977,31942
+Philosophy,1978,33137
+Philosophy,1979,34972
+Philosophy,1980,38042
+Philosophy,1981,37959
+Philosophy,1982,38436
+Philosophy,1983,40101
+Philosophy,1984,42541
+Philosophy,1985,44086
+Philosophy,1986,46833
+Philosophy,1987,49463
+Philosophy,1988,52033
+Philosophy,1989,56236
+Philosophy,1990,62418
+Philosophy,1991,63617
+Philosophy,1992,66688
+Philosophy,1993,68986
+Philosophy,1994,73420
+Philosophy,1995,77509
+Philosophy,1996,83379
+Philosophy,1997,87666
+Philosophy,1998,90975
+Philosophy,1999,97126
+Philosophy,2000,115915
+Philosophy,2001,124594
+Philosophy,2002,152107
+Philosophy,2003,159347
+Philosophy,2004,172675
+Philosophy,2005,190940
+Philosophy,2006,215649
+Philosophy,2007,236155
+Philosophy,2008,260162
+Philosophy,2009,288481
+Philosophy,2010,315580
+Philosophy,2011,339690
+Philosophy,2012,355464
+Philosophy,2013,375916
+Philosophy,2014,388164
+Philosophy,2015,398871
+Philosophy,2016,404244
+Philosophy,2017,397029
+Philosophy,2018,417038
+Philosophy,2019,436491
+Philosophy,2020,481803
+Philosophy,2021,472242
+Philosophy,2022,426312
+Artificial intelligence,1970,22371
+Artificial intelligence,1971,20450
+Artificial intelligence,1972,22248
+Artificial intelligence,1973,23708
+Artificial intelligence,1974,25382
+Artificial intelligence,1975,27641
+Artificial intelligence,1976,28687
+Artificial intelligence,1977,30260
+Artificial intelligence,1978,31734
+Artificial intelligence,1979,33267
+Artificial intelligence,1980,37028
+Artificial intelligence,1981,36858
+Artificial intelligence,1982,38941
+Artificial intelligence,1983,43328
+Artificial intelligence,1984,45415
+Artificial intelligence,1985,48588
+Artificial intelligence,1986,53883
+Artificial intelligence,1987,59282
+Artificial intelligence,1988,65157
+Artificial intelligence,1989,69918
+Artificial intelligence,1990,80276
+Artificial intelligence,1991,84715
+Artificial intelligence,1992,91669
+Artificial intelligence,1993,96738
+Artificial intelligence,1994,102016
+Artificial intelligence,1995,106155
+Artificial intelligence,1996,114525
+Artificial intelligence,1997,119080
+Artificial intelligence,1998,126875
+Artificial intelligence,1999,137111
+Artificial intelligence,2000,159003
+Artificial intelligence,2001,169765
+Artificial intelligence,2002,312003
+Artificial intelligence,2003,267879
+Artificial intelligence,2004,278156
+Artificial intelligence,2005,325783
+Artificial intelligence,2006,367519
+Artificial intelligence,2007,385540
+Artificial intelligence,2008,415987
+Artificial intelligence,2009,460287
+Artificial intelligence,2010,496889
+Artificial intelligence,2011,527457
+Artificial intelligence,2012,540744
+Artificial intelligence,2013,564006
+Artificial intelligence,2014,569370
+Artificial intelligence,2015,574735
+Artificial intelligence,2016,578141
+Artificial intelligence,2017,601071
+Artificial intelligence,2018,674004
+Artificial intelligence,2019,744760
+Artificial intelligence,2020,806969
+Artificial intelligence,2021,852696
+Artificial intelligence,2022,824097
+Political science,1970,90987
+Political science,1971,78929
+Political science,1972,85049
+Political science,1973,88708
+Political science,1974,92156
+Political science,1975,97371
+Political science,1976,102539
+Political science,1977,107458
+Political science,1978,113219
+Political science,1979,117941
+Political science,1980,126315
+Political science,1981,127068
+Political science,1982,130417
+Political science,1983,135710
+Political science,1984,142750
+Political science,1985,148899
+Political science,1986,158546
+Political science,1987,170295
+Political science,1988,180469
+Political science,1989,196090
+Political science,1990,213684
+Political science,1991,220382
+Political science,1992,235081
+Political science,1993,250903
+Political science,1994,269067
+Political science,1995,288565
+Political science,1996,307481
+Political science,1997,329782
+Political science,1998,352632
+Political science,1999,378938
+Political science,2000,448063
+Political science,2001,479937
+Political science,2002,543039
+Political science,2003,585190
+Political science,2004,642355
+Political science,2005,705046
+Political science,2006,770691
+Political science,2007,879735
+Political science,2008,941876
+Political science,2009,1049113
+Political science,2010,1152153
+Political science,2011,1230058
+Political science,2012,1308834
+Political science,2013,1392160
+Political science,2014,1452082
+Political science,2015,1494322
+Political science,2016,1568028
+Political science,2017,1559507
+Political science,2018,1554716
+Political science,2019,1572164
+Political science,2020,1655382
+Political science,2021,1474464
+Political science,2022,1218121
+Philosophy,1970,99503
+Philosophy,1971,86158
+Philosophy,1972,91388
+Philosophy,1973,94319
+Philosophy,1974,96167
+Philosophy,1975,99499
+Philosophy,1976,101361
+Philosophy,1977,106069
+Philosophy,1978,110602
+Philosophy,1979,114930
+Philosophy,1980,122938
+Philosophy,1981,123546
+Philosophy,1982,126133
+Philosophy,1983,131267
+Philosophy,1984,138686
+Philosophy,1985,144665
+Philosophy,1986,154985
+Philosophy,1987,165271
+Philosophy,1988,175141
+Philosophy,1989,186684
+Philosophy,1990,202485
+Philosophy,1991,205629
+Philosophy,1992,217855
+Philosophy,1993,230744
+Philosophy,1994,244615
+Philosophy,1995,259818
+Philosophy,1996,276208
+Philosophy,1997,295065
+Philosophy,1998,313036
+Philosophy,1999,332806
+Philosophy,2000,392723
+Philosophy,2001,420193
+Philosophy,2002,489657
+Philosophy,2003,521873
+Philosophy,2004,566734
+Philosophy,2005,619986
+Philosophy,2006,688279
+Philosophy,2007,778747
+Philosophy,2008,833717
+Philosophy,2009,921782
+Philosophy,2010,1000369
+Philosophy,2011,1086277
+Philosophy,2012,1124398
+Philosophy,2013,1195228
+Philosophy,2014,1238470
+Philosophy,2015,1288904
+Philosophy,2016,1345612
+Philosophy,2017,1360158
+Philosophy,2018,1380875
+Philosophy,2019,1390506
+Philosophy,2020,1426177
+Philosophy,2021,1302189
+Philosophy,2022,1111570
+Economics,1970,40239
+Economics,1971,33241
+Economics,1972,36099
+Economics,1973,38591
+Economics,1974,41178
+Economics,1975,44406
+Economics,1976,48312
+Economics,1977,50787
+Economics,1978,54097
+Economics,1979,57709
+Economics,1980,67266
+Economics,1981,63453
+Economics,1982,65654
+Economics,1983,69244
+Economics,1984,72656
+Economics,1985,75630
+Economics,1986,79816
+Economics,1987,85309
+Economics,1988,90047
+Economics,1989,97861
+Economics,1990,110841
+Economics,1991,110405
+Economics,1992,116597
+Economics,1993,123310
+Economics,1994,129831
+Economics,1995,138528
+Economics,1996,148073
+Economics,1997,155530
+Economics,1998,166086
+Economics,1999,179118
+Economics,2000,216477
+Economics,2001,231821
+Economics,2002,279892
+Economics,2003,296486
+Economics,2004,324340
+Economics,2005,356296
+Economics,2006,394349
+Economics,2007,467686
+Economics,2008,472038
+Economics,2009,527154
+Economics,2010,573315
+Economics,2011,619077
+Economics,2012,658028
+Economics,2013,691072
+Economics,2014,704609
+Economics,2015,710563
+Economics,2016,709036
+Economics,2017,714931
+Economics,2018,744818
+Economics,2019,767962
+Economics,2020,834631
+Economics,2021,816505
+Economics,2022,726920
+Business,1970,43729
+Business,1971,34429
+Business,1972,36915
+Business,1973,38239
+Business,1974,41012
+Business,1975,44259
+Business,1976,47306
+Business,1977,50356
+Business,1978,54401
+Business,1979,56662
+Business,1980,66871
+Business,1981,60958
+Business,1982,62769
+Business,1983,65833
+Business,1984,68221
+Business,1985,71687
+Business,1986,76781
+Business,1987,80606
+Business,1988,87364
+Business,1989,93369
+Business,1990,107156
+Business,1991,113877
+Business,1992,120447
+Business,1993,130570
+Business,1994,139144
+Business,1995,149478
+Business,1996,158754
+Business,1997,169037
+Business,1998,179757
+Business,1999,195905
+Business,2000,239246
+Business,2001,255608
+Business,2002,297813
+Business,2003,320181
+Business,2004,353745
+Business,2005,390314
+Business,2006,430949
+Business,2007,478631
+Business,2008,537008
+Business,2009,596992
+Business,2010,657136
+Business,2011,718235
+Business,2012,767150
+Business,2013,803648
+Business,2014,831579
+Business,2015,858151
+Business,2016,838427
+Business,2017,838574
+Business,2018,852516
+Business,2019,880809
+Business,2020,920792
+Business,2021,811370
+Business,2022,704836
+Medicine,1970,233802
+Medicine,1971,224716
+Medicine,1972,230579
+Medicine,1973,237220
+Medicine,1974,244964
+Medicine,1975,260317
+Medicine,1976,269506
+Medicine,1977,283652
+Medicine,1978,300414
+Medicine,1979,310556
+Medicine,1980,328809
+Medicine,1981,335211
+Medicine,1982,345564
+Medicine,1983,359948
+Medicine,1984,377847
+Medicine,1985,393575
+Medicine,1986,412278
+Medicine,1987,440168
+Medicine,1988,461669
+Medicine,1989,486805
+Medicine,1990,514246
+Medicine,1991,511237
+Medicine,1992,517436
+Medicine,1993,532205
+Medicine,1994,551029
+Medicine,1995,591520
+Medicine,1996,618124
+Medicine,1997,646173
+Medicine,1998,666934
+Medicine,1999,681575
+Medicine,2000,769777
+Medicine,2001,800797
+Medicine,2002,869157
+Medicine,2003,948605
+Medicine,2004,1050882
+Medicine,2005,1124753
+Medicine,2006,1255753
+Medicine,2007,1335068
+Medicine,2008,1438336
+Medicine,2009,1541812
+Medicine,2010,1634557
+Medicine,2011,1758404
+Medicine,2012,1874583
+Medicine,2013,1971917
+Medicine,2014,2012959
+Medicine,2015,2086180
+Medicine,2016,2125379
+Medicine,2017,2140033
+Medicine,2018,2229225
+Medicine,2019,2334248
+Medicine,2020,2699977
+Medicine,2021,2640654
+Medicine,2022,2434676
+Biology,1970,175053
+Biology,1971,142893
+Biology,1972,148543
+Biology,1973,155102
+Biology,1974,160746
+Biology,1975,173881
+Biology,1976,179149
+Biology,1977,190154
+Biology,1978,201310
+Biology,1979,210165
+Biology,1980,259971
+Biology,1981,233726
+Biology,1982,242407
+Biology,1983,252381
+Biology,1984,268052
+Biology,1985,279278
+Biology,1986,295103
+Biology,1987,311249
+Biology,1988,325043
+Biology,1989,346641
+Biology,1990,405696
+Biology,1991,377811
+Biology,1992,393411
+Biology,1993,406722
+Biology,1994,431232
+Biology,1995,454084
+Biology,1996,484686
+Biology,1997,494776
+Biology,1998,523407
+Biology,1999,532936
+Biology,2000,635500
+Biology,2001,636038
+Biology,2002,714904
+Biology,2003,829946
+Biology,2004,823321
+Biology,2005,871595
+Biology,2006,974121
+Biology,2007,1049483
+Biology,2008,1127847
+Biology,2009,1224616
+Biology,2010,1306556
+Biology,2011,1382965
+Biology,2012,1447007
+Biology,2013,1517902
+Biology,2014,1551458
+Biology,2015,1570558
+Biology,2016,1603947
+Biology,2017,1590329
+Biology,2018,1697729
+Biology,2019,1758378
+Biology,2020,1939993
+Biology,2021,1921965
+Biology,2022,1856295
+Geology,1970,53580
+Geology,1971,49757
+Geology,1972,53119
+Geology,1973,55705
+Geology,1974,61664
+Geology,1975,64322
+Geology,1976,64194
+Geology,1977,67644
+Geology,1978,70065
+Geology,1979,75224
+Geology,1980,80832
+Geology,1981,81531
+Geology,1982,83242
+Geology,1983,85665
+Geology,1984,90424
+Geology,1985,93004
+Geology,1986,95185
+Geology,1987,98851
+Geology,1988,105062
+Geology,1989,108447
+Geology,1990,118134
+Geology,1991,120145
+Geology,1992,122777
+Geology,1993,128181
+Geology,1994,130474
+Geology,1995,139215
+Geology,1996,147055
+Geology,1997,150790
+Geology,1998,155738
+Geology,1999,165327
+Geology,2000,193758
+Geology,2001,206842
+Geology,2002,238795
+Geology,2003,256458
+Geology,2004,265677
+Geology,2005,290562
+Geology,2006,314954
+Geology,2007,336794
+Geology,2008,366649
+Geology,2009,399044
+Geology,2010,416031
+Geology,2011,439887
+Geology,2012,453474
+Geology,2013,489964
+Geology,2014,518746
+Geology,2015,491104
+Geology,2016,499392
+Geology,2017,493788
+Geology,2018,504178
+Geology,2019,505828
+Geology,2020,499543
+Geology,2021,477495
+Geology,2022,434258
+Chemistry,1970,176695
+Chemistry,1971,172232
+Chemistry,1972,181829
+Chemistry,1973,188886
+Chemistry,1974,194458
+Chemistry,1975,202141
+Chemistry,1976,204311
+Chemistry,1977,213245
+Chemistry,1978,221335
+Chemistry,1979,229180
+Chemistry,1980,249380
+Chemistry,1981,249948
+Chemistry,1982,255040
+Chemistry,1983,262839
+Chemistry,1984,272767
+Chemistry,1985,282384
+Chemistry,1986,292696
+Chemistry,1987,310612
+Chemistry,1988,319429
+Chemistry,1989,331689
+Chemistry,1990,357620
+Chemistry,1991,357802
+Chemistry,1992,363875
+Chemistry,1993,374952
+Chemistry,1994,388736
+Chemistry,1995,408935
+Chemistry,1996,432422
+Chemistry,1997,439146
+Chemistry,1998,449785
+Chemistry,1999,461457
+Chemistry,2000,509300
+Chemistry,2001,525910
+Chemistry,2002,581286
+Chemistry,2003,610719
+Chemistry,2004,662538
+Chemistry,2005,707772
+Chemistry,2006,772344
+Chemistry,2007,824990
+Chemistry,2008,865106
+Chemistry,2009,924618
+Chemistry,2010,959689
+Chemistry,2011,1024654
+Chemistry,2012,1056123
+Chemistry,2013,1106556
+Chemistry,2014,1124574
+Chemistry,2015,1105552
+Chemistry,2016,1118536
+Chemistry,2017,1101971
+Chemistry,2018,1130409
+Chemistry,2019,1182657
+Chemistry,2020,1253825
+Chemistry,2021,1256043
+Chemistry,2022,1245259
+Art,1970,66252
+Art,1971,54008
+Art,1972,56370
+Art,1973,59169
+Art,1974,60416
+Art,1975,62087
+Art,1976,65242
+Art,1977,68679
+Art,1978,71891
+Art,1979,74767
+Art,1980,80048
+Art,1981,80924
+Art,1982,83071
+Art,1983,86747
+Art,1984,91843
+Art,1985,96300
+Art,1986,103629
+Art,1987,110573
+Art,1988,118330
+Art,1989,125526
+Art,1990,135313
+Art,1991,136392
+Art,1992,145504
+Art,1993,155950
+Art,1994,165311
+Art,1995,174216
+Art,1996,185189
+Art,1997,198304
+Art,1998,209566
+Art,1999,225115
+Art,2000,268867
+Art,2001,275797
+Art,2002,313148
+Art,2003,337618
+Art,2004,366574
+Art,2005,390411
+Art,2006,427439
+Art,2007,557245
+Art,2008,533098
+Art,2009,594577
+Art,2010,647819
+Art,2011,745156
+Art,2012,745531
+Art,2013,800892
+Art,2014,845994
+Art,2015,898682
+Art,2016,1009031
+Art,2017,1025641
+Art,2018,992993
+Art,2019,990808
+Art,2020,976808
+Art,2021,795704
+Art,2022,644016
+Engineering,1970,82310
+Engineering,1971,74907
+Engineering,1972,80998
+Engineering,1973,83817
+Engineering,1974,90865
+Engineering,1975,97841
+Engineering,1976,102692
+Engineering,1977,108189
+Engineering,1978,114398
+Engineering,1979,120116
+Engineering,1980,132661
+Engineering,1981,129923
+Engineering,1982,133283
+Engineering,1983,140437
+Engineering,1984,147098
+Engineering,1985,154294
+Engineering,1986,161505
+Engineering,1987,171256
+Engineering,1988,178065
+Engineering,1989,190847
+Engineering,1990,207326
+Engineering,1991,215218
+Engineering,1992,227418
+Engineering,1993,238959
+Engineering,1994,246871
+Engineering,1995,266938
+Engineering,1996,281724
+Engineering,1997,286778
+Engineering,1998,296577
+Engineering,1999,321218
+Engineering,2000,380932
+Engineering,2001,409562
+Engineering,2002,605449
+Engineering,2003,577315
+Engineering,2004,612590
+Engineering,2005,694667
+Engineering,2006,772951
+Engineering,2007,836166
+Engineering,2008,910737
+Engineering,2009,977454
+Engineering,2010,1055239
+Engineering,2011,1147756
+Engineering,2012,1169912
+Engineering,2013,1252112
+Engineering,2014,1243910
+Engineering,2015,1249958
+Engineering,2016,1278260
+Engineering,2017,1302018
+Engineering,2018,1320231
+Engineering,2019,1383071
+Engineering,2020,1439524
+Engineering,2021,1433280
+Engineering,2022,1378298
+Geography,1970,65539
+Geography,1971,50938
+Geography,1972,53412
+Geography,1973,55275
+Geography,1974,58766
+Geography,1975,62019
+Geography,1976,65306
+Geography,1977,69195
+Geography,1978,73516
+Geography,1979,77252
+Geography,1980,95851
+Geography,1981,84633
+Geography,1982,85124
+Geography,1983,86591
+Geography,1984,92741
+Geography,1985,94253
+Geography,1986,99479
+Geography,1987,102949
+Geography,1988,108581
+Geography,1989,113722
+Geography,1990,134724
+Geography,1991,124886
+Geography,1992,133185
+Geography,1993,140408
+Geography,1994,147870
+Geography,1995,155789
+Geography,1996,168277
+Geography,1997,173640
+Geography,1998,191141
+Geography,1999,197359
+Geography,2000,246574
+Geography,2001,254455
+Geography,2002,284180
+Geography,2003,348382
+Geography,2004,340297
+Geography,2005,360339
+Geography,2006,403066
+Geography,2007,452013
+Geography,2008,492149
+Geography,2009,552569
+Geography,2010,609383
+Geography,2011,655198
+Geography,2012,694335
+Geography,2013,739380
+Geography,2014,794723
+Geography,2015,797333
+Geography,2016,841679
+Geography,2017,825009
+Geography,2018,858041
+Geography,2019,877944
+Geography,2020,934733
+Geography,2021,843899
+Geography,2022,742496
+History,1970,54612
+History,1971,50233
+History,1972,52590
+History,1973,54724
+History,1974,55260
+History,1975,58240
+History,1976,61061
+History,1977,62139
+History,1978,63460
+History,1979,65362
+History,1980,69498
+History,1981,67890
+History,1982,70186
+History,1983,71345
+History,1984,75799
+History,1985,76679
+History,1986,80731
+History,1987,83927
+History,1988,89691
+History,1989,95701
+History,1990,102299
+History,1991,105393
+History,1992,108602
+History,1993,113676
+History,1994,115811
+History,1995,121138
+History,1996,124335
+History,1997,131126
+History,1998,135030
+History,1999,143325
+History,2000,173421
+History,2001,175046
+History,2002,193669
+History,2003,202773
+History,2004,220332
+History,2005,225473
+History,2006,244642
+History,2007,340531
+History,2008,287396
+History,2009,323968
+History,2010,355359
+History,2011,369216
+History,2012,392226
+History,2013,422206
+History,2014,427650
+History,2015,430058
+History,2016,462887
+History,2017,489683
+History,2018,467444
+History,2019,465277
+History,2020,481108
+History,2021,393363
+History,2022,336966
+Materials science,1970,76682
+Materials science,1971,76334
+Materials science,1972,82290
+Materials science,1973,83916
+Materials science,1974,88754
+Materials science,1975,91552
+Materials science,1976,93784
+Materials science,1977,95192
+Materials science,1978,99583
+Materials science,1979,103742
+Materials science,1980,113502
+Materials science,1981,115840
+Materials science,1982,116964
+Materials science,1983,122070
+Materials science,1984,129803
+Materials science,1985,138241
+Materials science,1986,144893
+Materials science,1987,156155
+Materials science,1988,162998
+Materials science,1989,173577
+Materials science,1990,185810
+Materials science,1991,201412
+Materials science,1992,204981
+Materials science,1993,215980
+Materials science,1994,220984
+Materials science,1995,230286
+Materials science,1996,252970
+Materials science,1997,254451
+Materials science,1998,263686
+Materials science,1999,274445
+Materials science,2000,313530
+Materials science,2001,327964
+Materials science,2002,409611
+Materials science,2003,405832
+Materials science,2004,433672
+Materials science,2005,504548
+Materials science,2006,543366
+Materials science,2007,575008
+Materials science,2008,629014
+Materials science,2009,637029
+Materials science,2010,664182
+Materials science,2011,724958
+Materials science,2012,735636
+Materials science,2013,803316
+Materials science,2014,808163
+Materials science,2015,810868
+Materials science,2016,818534
+Materials science,2017,847033
+Materials science,2018,847358
+Materials science,2019,882459
+Materials science,2020,887401
+Materials science,2021,914528
+Materials science,2022,900639
+Physics,1970,160224
+Physics,1971,158286
+Physics,1972,168694
+Physics,1973,176440
+Physics,1974,186174
+Physics,1975,193848
+Physics,1976,194028
+Physics,1977,200486
+Physics,1978,204881
+Physics,1979,215669
+Physics,1980,228366
+Physics,1981,235092
+Physics,1982,235533
+Physics,1983,247358
+Physics,1984,258325
+Physics,1985,271804
+Physics,1986,283174
+Physics,1987,301042
+Physics,1988,312440
+Physics,1989,329839
+Physics,1990,354479
+Physics,1991,365049
+Physics,1992,378971
+Physics,1993,397551
+Physics,1994,408021
+Physics,1995,423763
+Physics,1996,457861
+Physics,1997,465959
+Physics,1998,484579
+Physics,1999,501010
+Physics,2000,555678
+Physics,2001,584874
+Physics,2002,761813
+Physics,2003,743525
+Physics,2004,780657
+Physics,2005,879774
+Physics,2006,947356
+Physics,2007,1000692
+Physics,2008,1066772
+Physics,2009,1148128
+Physics,2010,1220421
+Physics,2011,1300500
+Physics,2012,1340420
+Physics,2013,1423268
+Physics,2014,1439850
+Physics,2015,1465766
+Physics,2016,1480584
+Physics,2017,1515466
+Physics,2018,1566780
+Physics,2019,1637841
+Physics,2020,1597203
+Physics,2021,1608974
+Physics,2022,1502216
+Environmental science,1970,50474
+Environmental science,1971,37761
+Environmental science,1972,39181
+Environmental science,1973,40513
+Environmental science,1974,44022
+Environmental science,1975,46764
+Environmental science,1976,47893
+Environmental science,1977,51649
+Environmental science,1978,53233
+Environmental science,1979,57620
+Environmental science,1980,74694
+Environmental science,1981,62736
+Environmental science,1982,63004
+Environmental science,1983,62937
+Environmental science,1984,65024
+Environmental science,1985,64809
+Environmental science,1986,66931
+Environmental science,1987,68883
+Environmental science,1988,71589
+Environmental science,1989,74568
+Environmental science,1990,93378
+Environmental science,1991,83124
+Environmental science,1992,87615
+Environmental science,1993,92368
+Environmental science,1994,98086
+Environmental science,1995,110744
+Environmental science,1996,114117
+Environmental science,1997,116797
+Environmental science,1998,120024
+Environmental science,1999,127074
+Environmental science,2000,165046
+Environmental science,2001,160915
+Environmental science,2002,182154
+Environmental science,2003,196706
+Environmental science,2004,213227
+Environmental science,2005,228929
+Environmental science,2006,250100
+Environmental science,2007,267185
+Environmental science,2008,305770
+Environmental science,2009,329729
+Environmental science,2010,360092
+Environmental science,2011,380289
+Environmental science,2012,395601
+Environmental science,2013,435185
+Environmental science,2014,452417
+Environmental science,2015,449992
+Environmental science,2016,454929
+Environmental science,2017,460611
+Environmental science,2018,474290
+Environmental science,2019,480856
+Environmental science,2020,493714
+Environmental science,2021,475626
+Environmental science,2022,489327
